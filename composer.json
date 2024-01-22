@@ -1,5 +1,5 @@
 {
-    "name": "mawdoo3com/waraqa-amq-integration",
+    "name": "mawdoo3-com/waraqa-amq-integration",
     "description": "This package is callback api to publish articles from waraqa platform",
     "type": "package",
     "require": {
